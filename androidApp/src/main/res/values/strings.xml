@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Game Developer</string>
+    <string name="lessons_subtitle">Learn Unity and C# game development step by step</string>
+    <string name="lesson_detail_back">Back</string>
+    <string name="lesson_not_found">Lesson not found.</string>
 </resources>
+
